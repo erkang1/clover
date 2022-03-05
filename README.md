@@ -1,3 +1,4 @@
+
 ### 注意：
 ###  123测试  
 ### ☘ 三叶草图标包模板
@@ -122,13 +123,13 @@
     <!--  更新内容，数量不限   -->
     <item>三叶草图标包示例应用</item>
     <item>基于L图标包模板核心组件开发</item>
-    <item>开发者QQ：2530767709</item>
+    <item>开发者QQ：***********</</item>
 </version>
 
 <version name="0.2" code="3">
     <item>增加文本内容配置</item>
     <item>增加图标解析文件的配置</item>
-    <item>开发者QQ：1982568737</item>
+    <item>开发者QQ：***********</item>
 </version>
 ...
 ```
@@ -199,8 +200,8 @@
 - [/app/src/main/res/values/strings.xml](https://github.com/hujincan/CloverIconPack/blob/master/app/src/main/res/values/strings.xml)  文字信息配置文件（设备默认语言）
 
 ```xml
-    <string name="maker_name">Andrew Martin</string>
-    <string name="maker_sign">你好😉！我一名设计摄影爱好者，也是本图标包UI界面的创作者，希望有更多人喜欢这个作品！</string>
+    <string name="maker_name">Canstor14</string>
+    <string name="maker_sign">你好😉！希望有更多人喜欢这个作品！</string>
 ```
 
 相信这么聪明的你一下子就知道该怎么修改了吧。
